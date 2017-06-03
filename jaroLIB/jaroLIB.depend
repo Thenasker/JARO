@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1492570751 source:c:\users\thenasker\desktop\jarolib\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<ctime>
+
+1492619860 source:c:\users\thenasker\desktop\lp\exercicio8\jarolib\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<ctime>
+
